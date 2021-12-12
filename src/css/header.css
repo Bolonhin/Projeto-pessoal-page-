@@ -1,0 +1,37 @@
+.cabecalho {
+  display: flex;
+  background-color: var(--cor-principal);
+  justify-content: space-between;
+  height: 100%;
+}
+.bt {
+  background-color: var(--cor-bt);
+  width: 155px;
+  height: 50px;
+  border-radius: 5px;
+  color: #fff;
+  margin-bottom: 119px;
+}
+.img-cabecalho {
+  margin: 87px 104px 124px;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  margin: 137px auto auto 101px;
+}
+.container h1 {
+  margin-bottom: 17.5px;
+  font-family: "merriweather";
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 47px;
+  color: var(--title);
+}
+.container p {
+  font-family: "lato";
+  font-weight: 400;
+  margin-bottom: 45px;
+  font-size: 19px;
+  line-height: 32px;
+}

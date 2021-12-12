@@ -1,0 +1,22 @@
+/*Variáveis*/
+@font-face {
+  font-family: "lato";
+  src: url(/src/fonts/Lato-Regular.ttf);
+  font-family: "merriweather";
+  src: url(/src/fonts/Merriweather-Bold.ttf);
+  font-family: "merriweather-regular";
+  src: url(/src/fonts/Merriweather-Regular.ttf);
+}
+:root {
+  --cor-principal: #d7d4ff;
+  --cor-bt: #6c63ff;
+  --cor-fundo-quadros: #f9f9f9;
+  --title: #2b2b2b;
+  --text: #555555;
+  --cor-primeiro-quadro: #ff6363;
+  --cor-segundo-quadro: #63ecff;
+  --cor-terceiro-quadro: #f363ff;
+  --cor-quarto-quadro: #63ff73;
+  --cor-quinto-quadro: #ffdd63;
+  --cor-sexto-quadro: #6663ff;
+}

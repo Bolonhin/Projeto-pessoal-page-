@@ -1,0 +1,40 @@
+@media (max-width: 990px) {
+  .cabecalho {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .bt {
+    margin-bottom: auto;
+  }
+  .img-cabecalho {
+    margin-bottom: 88px;
+  }
+  .container h1 {
+    width: 100%;
+  }
+
+  .container p {
+    width: 100%;
+  }
+  .container {
+    margin: auto;
+  }
+  .container {
+    margin-left: 20px;
+  }
+}
+@media (max-width: 500px) {
+  .formulario-container .nome-email-telefone {
+    height: 65px;
+    width: 370, 21px;
+  }
+  .formulario-container .nome-email-telefone.mensagem {
+    height: 65px;
+    width: 373, 21px;
+  }
+  .rodape .formulario-container .buton {
+    width: 370px;
+    height: 50px;
+  }
+}
